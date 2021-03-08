@@ -1,5 +1,5 @@
 {
-    "baseUrl": "http://webapp.frontend-development/index.html",
+    "baseUrl": "http://webapp.frontend-development",
     "reporter": "mochawesome",
     "reporterOptions": {
         "charts": true,
