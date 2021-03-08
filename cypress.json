@@ -1,0 +1,11 @@
+{
+    "baseUrl": "http://40.122.170.98/index.html",
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "charts": true,
+        "overwrite": false,
+        "html": true,
+        "json": false,
+        "reportDir": "."
+    }
+}
